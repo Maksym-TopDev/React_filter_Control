@@ -1,14 +1,14 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/komarovalexander/react-filter-control/blob/master/LICENSE) [![Build Status](https://travis-ci.com/komarovalexander/react-filter-control.svg?branch=master)](https://travis-ci.com/komarovalexander/react-filter-control)
-[![Coverage Status](https://coveralls.io/repos/github/komarovalexander/react-filter-control/badge.svg?branch=master)](https://coveralls.io/github/komarovalexander/react-filter-control?branch=master)
+[![GitHub Maksym-TopDev](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Maksym-TopDev/react-filter-control/blob/master/LICENSE) [![Build Status](https://travis-ci.com/Maksym-TopDev/react-filter-control.svg?branch=master)](https://travis-ci.com/Maksym-TopDev/react-filter-control)
+[![Coverage Status](https://coveralls.io/repos/github/Maksym-TopDev/react-filter-control/badge.svg?branch=master)](https://coveralls.io/github/Maksym-TopDev/react-filter-control?branch=master)
 # React Filter Control
 The React component for building the composite filter criteria
 
 [Demo (JS)](https://codesandbox.io/s/4xk994jovw)    |    [Demo (TS)](https://codesandbox.io/s/react-typescript-uhtxt)   
 
-[Together With Data Table](https://komarovalexander.github.io/ka-table/#/filter-extended)
+[Together With Data Table](https://Maksym-TopDev.github.io/ka-table/#/filter-extended)
 
 ## Overview
-![Filter Control](https://github.com/komarovalexander/react-filter-control/raw/master/static/filter-control.png)
+![Filter Control](https://github.com/Maksym-TopDev/react-filter-control/raw/master/static/filter-control.png)
 
 ## Installation
 npm
